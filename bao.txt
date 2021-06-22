@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bao ne
+=======
+oke
+>>>>>>> baobao commit
